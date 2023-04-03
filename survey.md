@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black
+Favorite food: pasta
+Favorite musician/band: BigSAM
+Favorite movie: the help
+Requested grade in the course: 100
